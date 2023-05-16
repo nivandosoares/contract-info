@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'Contrat baseado em escopo de projeto'
 date: '2023-05-14'
 author: 'Nivando Soares'
 ---
